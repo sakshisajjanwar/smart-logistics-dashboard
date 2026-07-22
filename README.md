@@ -230,6 +230,3 @@ Through this project, I learned:
 
 AI & Machine Learning Student
 
----
-
-## ⭐ If you found this project useful, don't forget to Star the repository!
